@@ -7,4 +7,4 @@
 # All rights reserved - Do Not Redistribute
 #
 
-default[:pygments][:version] = "1.4"
+default[:pygments][:version] = "1.6"
